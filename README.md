@@ -127,11 +127,11 @@ Fournissent le style pour l'interface utilisateur.
 
 Gère la logique du chat côté serveur.
 
+## Captures d'écran
+
+- [Capture d'écran de la page de chat](https://ibb.co/D5CH5sC)
+- [Capture d'écran de la page de connexion](https://ibb.co/sChKd5g)
+
 ## Auteur
 
 Ce projet a été développé par asmaa el hint.
-
-## Licence
-
-Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
-
