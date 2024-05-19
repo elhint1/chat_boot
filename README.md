@@ -129,8 +129,9 @@ Gère la logique du chat côté serveur.
 
 ## Captures d'écran
 
-- [Capture d'écran de la page de chat](https://ibb.co/D5CH5sC)
-- [Capture d'écran de la page de connexion](https://ibb.co/sChKd5g)
+![Capture d'écran de la page de connexion](https://i.ibb.co/0hMRh8M/login.png)
+![Capture d'écran de la page de chat](https://i.ibb.co/T1Z4xKw/chat.png)
+
 
 ## Auteur
 
